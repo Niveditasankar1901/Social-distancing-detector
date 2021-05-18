@@ -10,6 +10,8 @@ Calculates the distance between every human who is detected in the frame.
 
 Shows how many people are at High, Low and Not at risk.
 
+Bounding Box color
+
 Red - High risk
 
 Yellow - Low risk
