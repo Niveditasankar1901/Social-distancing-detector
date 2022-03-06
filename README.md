@@ -21,7 +21,7 @@ Green - Safe
 **Requirements**
 
 For human detection:
-yolov3.weights file is not present in model folder because of the size issue. It can be downloaded from https://pjreddie.com/media/files/yolov3.weights
+yolov3.weights file is not present in model folder because of the size issue.
 
 Save the input video file in data folder as "example.mp4"
 
