@@ -4,7 +4,7 @@
 
 This tool has following features:
 
-1Detect humans in the frame with yolov3.
+Detect humans in the frame with yolov3.
 
 Calculates the distance between every human who is detected in the frame.
 
